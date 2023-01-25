@@ -1,2 +1,4 @@
 /.idea
 /vendor
+/fixtures/events.json
+/logs/worker.log
